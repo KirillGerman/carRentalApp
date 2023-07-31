@@ -1,0 +1,6 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE contract_rate_history;
+TRUNCATE TABLE contracts;
+TRUNCATE TABLE customers;
+TRUNCATE TABLE vehicles;
+SET FOREIGN_KEY_CHECKS = 1;

@@ -1,0 +1,8 @@
+CREATE TABLE vehicles (
+    id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    brand VARCHAR(100) NOT NULL,
+    model VARCHAR(100) NOT NULL,
+    model_year DATE NOT NULL,
+    vin VARCHAR(100) UNIQUE,
+    price DECIMAL(12,2) CHECK (price > 0) NOT NULL
+);

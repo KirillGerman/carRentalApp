@@ -1,0 +1,10 @@
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName5', 'lastName320', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName730', 'lastName909', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName822', 'lastName527', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName960', 'lastName878', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName44', 'lastName259', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName227', 'lastName304', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName312', 'lastName386', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName984', 'lastName16', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES('firstName679', 'lastName378', '2020-01-01');
+INSERT INTO customers (first_name, last_name, date_of_birth) VALUES( 'firstName913', 'lastName649', '2020-01-01');
